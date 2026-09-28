@@ -31,7 +31,7 @@ const calculateExperience = (startDate) => {
 
 export default function About() {
 
-    const experienceStartDate = "2026-01-15";
+    const experienceStartDate = "2026-01-01";
 
     const experience = calculateExperience(experienceStartDate);
 
